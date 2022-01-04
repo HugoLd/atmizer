@@ -8,7 +8,8 @@
 
 <script>
 import { CheckboxSvgMap } from "vue-svg-map";
-import World from "@svg-maps/world";
+import { World } from "@svg-maps/world";
+
 export default {
   name: "WorldMap",
   components: {
